@@ -1,0 +1,7 @@
+name: ChristmasEvent
+version: '${project.version}'
+main: host.elizon.christmasevent.ChristmasEvent
+api-version: 1.19
+load: STARTUP
+authors: [ ELIZON ]
+website: https://elizon.host
